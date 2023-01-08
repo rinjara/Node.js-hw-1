@@ -1,6 +1,8 @@
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 node index.js --action="list"
-+
+
+https://ibb.co/tqPc0pF
+
 # Отримуємо контакт по id
 node index.js --action="get" --id=5
 
